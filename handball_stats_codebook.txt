@@ -1,0 +1,17 @@
+NAME - name of the player
+CLUB - the players club
+POSITION - players position on the court
+P - games played
+G - goals scored
+M - goal attempt missed
+FG - field goals (excluded penalties)
+PEN - penalties scored
+% - scoring percentage
+AS - assists
+TF - tehnical fouls
+ST - steals
+BL - blocked shots
+YC - yellow cards
+2MIN - two minutes suspensions
+RC - red cards
+HPI - perfomance index
